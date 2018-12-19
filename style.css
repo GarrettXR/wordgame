@@ -1,0 +1,29 @@
+html {box-sizing:border-box;}
+*,*:after, *:before {box-sizing:inherit;}
+
+.cont{
+	margin: 0 auto;
+	margin-top: 100px;
+	padding: 20px;
+	height:300px;
+	width:500px;
+	text-align: center;
+	background-color: orange;
+}
+
+#blankSpaces{
+	width: 250px;
+	height: 150px;
+	font-size: 30px;
+	margin-left: 100px; 
+	line-height: 250px;
+}
+
+.alphabet{
+	height: 25px;
+	width: 30px;
+	margin: 3px;
+	background-color: lime;
+	font-family: arial;
+	outline: none;
+}
